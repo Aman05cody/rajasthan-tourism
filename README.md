@@ -4,7 +4,7 @@ A tourism website for the heritage sites of **Rajasthan, India** — built with 
 
 🌍 **Live website:** https://aman05cody.github.io/rajasthan-tourism/
 
-## Pages (16)
+## Pages (20)
 
 | Page | File |
 |---|---|
@@ -12,10 +12,10 @@ A tourism website for the heritage sites of **Rajasthan, India** — built with 
 | Heritage — list of 12 sites, each picture links to its own page | `heritage.html` |
 | Hotel Booking — booking form | `booking.html` |
 | Gallery — photos of heritage sites | `gallery.html` |
-| 12 dedicated heritage-site pages (description + history) | `sites/*.html` |
+| 16 dedicated heritage-site pages (description + history) | `sites/*.html` |
 
 ### Heritage sites covered
-Amber Fort, Mehrangarh Fort, Hawa Mahal, Jantar Mantar (Jaipur) · City Palace Jaipur · Chittorgarh Fort · Ranthambore Fort · Junagarh Fort (Bikaner) · Kumbhalgarh Fort · Jaisalmer Fort · Umaid Bhawan Palace (Jodhpur) · City Palace Udaipur.
+Amber Fort, Mehrangarh Fort, Hawa Mahal, Jantar Mantar, Nahargarh Fort, Jaigarh Fort (Jaipur) · City Palace Jaipur · Chittorgarh Fort · Ranthambore Fort · Junagarh Fort (Bikaner) · Kumbhalgarh Fort · Jaisalmer Fort, Patwon Ki Haveli (Jaisalmer) · Umaid Bhawan Palace (Jodhpur) · City Palace Udaipur · Dilwara Temples (Mount Abu).
 
 ## Features
 - Same background image and identical header/footer styling on every page
