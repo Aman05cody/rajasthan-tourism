@@ -24,11 +24,5 @@ Amber Fort, Mehrangarh Fort, Hawa Mahal, Jantar Mantar, Nahargarh Fort, Jaigarh 
 - Hotel booking form with full client-side validation and a booking confirmation summary
 - Mobile-friendly responsive layout
 
-## Run locally
-Just open `index.html` in a browser, or serve the folder:
-```
-python3 -m http.server
-```
-
 ## Credits
 Photographs: Wikimedia Commons contributors.
