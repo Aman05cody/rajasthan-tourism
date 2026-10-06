@@ -1,0 +1,101 @@
+{
+  "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/20191218_Amber_Fort_seen_from_Jaigarh_Fort_1617_9427.jpg/960px-20191218_Amber_Fort_seen_from_Jaigarh_Fort_1617_9427.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "sites": {
+    "amber-fort": {
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jaipur_03-2016_04_Amber_Fort.jpg/1920px-Jaipur_03-2016_04_Amber_Fort.jpg",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jaipur_03-2016_04_Amber_Fort.jpg/1920px-Jaipur_03-2016_04_Amber_Fort.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/20191219_Fort_Amber%2C_Amer%2C_Jaipur_0955_9481.jpg/960px-20191219_Fort_Amber%2C_Amer%2C_Jaipur_0955_9481.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Jaipur_03-2016_05_Amber_Fort.jpg/960px-Jaipur_03-2016_05_Amber_Fort.jpg"
+      ]
+    },
+    "mehrangarh-fort": {
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Mehrangarh_fort.jpg/1280px-The_Mehrangarh_fort.jpg",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Mehrangarh_fort.jpg/1280px-The_Mehrangarh_fort.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mehrangarh_RaoJodhaDNP_DSC0158.jpg/1920px-Mehrangarh_RaoJodhaDNP_DSC0158.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c4/Mehrangarh_Fort_5174627.jpg"
+      ]
+    },
+    "hawa-mahal": {
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hawa_Mahal_--_Jaipur.jpg",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hawa_Mahal_--_Jaipur.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hawa_mahal..._%2842222129860%29.jpg/1280px-Hawa_mahal..._%2842222129860%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hawa_Mahal%2C_Jaipur_5.jpg/1280px-Hawa_Mahal%2C_Jaipur_5.jpg"
+      ]
+    },
+    "jantar-mantar": {
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jaipur%2C_Jantar_Mantar%2C_Brihat_Samrat_Yantra_%289713595658%29.jpg/1280px-Jaipur%2C_Jantar_Mantar%2C_Brihat_Samrat_Yantra_%289713595658%29.jpg",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jaipur%2C_Jantar_Mantar%2C_Brihat_Samrat_Yantra_%289713595658%29.jpg/1280px-Jaipur%2C_Jantar_Mantar%2C_Brihat_Samrat_Yantra_%289713595658%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Jantar_Mantar_2009.jpg/960px-Jantar_Mantar_2009.jpg",
+        "https://www.throughmylens.com/wp-content/uploads/2014/05/Jantar-Mantar-23.jpg"
+      ]
+    },
+    "city-palace-jaipur": {
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Chandra_Mahal%2C_City_Palace%2C_Jaipur%2C_20191218_0951_9043.jpg/1280px-Chandra_Mahal%2C_City_Palace%2C_Jaipur%2C_20191218_0951_9043.jpg",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Chandra_Mahal%2C_City_Palace%2C_Jaipur%2C_20191218_0951_9043.jpg/1280px-Chandra_Mahal%2C_City_Palace%2C_Jaipur%2C_20191218_0951_9043.jpg",
+        "https://www.laurewanders.com/wp-content/uploads/2024/12/City-Palace-Jaipur-Chandra-Mahal.jpg",
+        "https://www.rajasthandirect.com/wp-content/uploads/2013/06/Chandra-Mahal-Jaipur-1.jpg"
+      ]
+    },
+    "chittorgarh-fort": {
+      "hero": "https://dcvrfpttsu6tk.cloudfront.net/images/destinations/banner_images/2024-01-16-18-58-19-65a6847304aa0-Chittor-Banner.jpg",
+      "images": [
+        "https://dcvrfpttsu6tk.cloudfront.net/images/destinations/banner_images/2024-01-16-18-58-19-65a6847304aa0-Chittor-Banner.jpg",
+        "https://traveltriangle.com/blog/wp-content/uploads/2023/09/Chittorgarh.jpg",
+        "https://www.japjitravel.com/blog/wp-content/uploads/2018/12/chittorgarh-fort.jpg"
+      ]
+    },
+    "ranthambore-fort": {
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fort_of_Ranthambore_as_visible_from_Ranthambore_National_Park.jpg/1920px-Fort_of_Ranthambore_as_visible_from_Ranthambore_National_Park.jpg",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fort_of_Ranthambore_as_visible_from_Ranthambore_National_Park.jpg/1920px-Fort_of_Ranthambore_as_visible_from_Ranthambore_National_Park.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Battis_Khambha_Chhatri_at_Ranthambhor_Fort.jpg/1920px-Battis_Khambha_Chhatri_at_Ranthambhor_Fort.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Padam_Talao.jpg/1920px-Padam_Talao.jpg"
+      ]
+    },
+    "junagarh-fort": {
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/A_view_of_Junagarh_Fort%2C_Bikaner.jpg/1920px-A_view_of_Junagarh_Fort%2C_Bikaner.jpg",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/A_view_of_Junagarh_Fort%2C_Bikaner.jpg/1920px-A_view_of_Junagarh_Fort%2C_Bikaner.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20191212_Junagarh_Fort%2C_Bikaner%2C_India_1510_8180.jpg/1920px-20191212_Junagarh_Fort%2C_Bikaner%2C_India_1510_8180.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Golden_work_of_Junagarh_fort.jpg/1920px-Golden_work_of_Junagarh_fort.jpg"
+      ]
+    },
+    "kumbhalgarh-fort": {
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/A_view_of_a_walled_city_of_kumbhalgarh.jpg/1920px-A_view_of_a_walled_city_of_kumbhalgarh.jpg",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/A_view_of_a_walled_city_of_kumbhalgarh.jpg/1920px-A_view_of_a_walled_city_of_kumbhalgarh.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Aerial_view_of_a_the_Kumbhalgarh_wall.jpg/1920px-Aerial_view_of_a_the_Kumbhalgarh_wall.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fort_Kumbhalgarh.jpg/1920px-Fort_Kumbhalgarh.jpg"
+      ]
+    },
+    "jaisalmer-fort": {
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Panoramic_view_of_Jaisalmer_Fort.jpg",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f2/Panoramic_view_of_Jaisalmer_Fort.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20170309_094057_Jaisalmer_fort_anagoria.JPG/1920px-20170309_094057_Jaisalmer_fort_anagoria.JPG",
+        "https://www.swantour.com/blogs/wp-content/uploads/2019/02/Jaisalmer-Fort.jpg"
+      ]
+    },
+    "umaid-bhawan-palace": {
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Umaid_Bhawan_Palace.jpg/960px-Umaid_Bhawan_Palace.jpg",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Umaid_Bhawan_Palace.jpg/960px-Umaid_Bhawan_Palace.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1996_-218-20A_Jodhpur_Hotel_Umaid_Bhawan_Palace_%282233393509%29.jpg/1280px-1996_-218-20A_Jodhpur_Hotel_Umaid_Bhawan_Palace_%282233393509%29.jpg",
+        "https://media1.thrillophilia.com/filestore/ofgm455oaj22a9v0a5s7g30uw05c_Umaid%20Bhawan%20Palace%202.jpg"
+      ]
+    },
+    "city-palace-udaipur": {
+      "hero": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Lake_view_of_City_Palace_%28Udaipur%29%2C_Rajasthan%2C_India_-2.jpg/1280px-Lake_view_of_City_Palace_%28Udaipur%29%2C_Rajasthan%2C_India_-2.jpg?utm_source=en.wikiquote.org&utm_campaign=index&utm_content=thumbnail",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Lake_view_of_City_Palace_%28Udaipur%29%2C_Rajasthan%2C_India_-2.jpg/1280px-Lake_view_of_City_Palace_%28Udaipur%29%2C_Rajasthan%2C_India_-2.jpg?utm_source=en.wikiquote.org&utm_campaign=index&utm_content=thumbnail",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Udaipur-Stadtpalast-42-vom_Picholasee-2018-gje.jpg/1280px-Udaipur-Stadtpalast-42-vom_Picholasee-2018-gje.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/City_Palace_%28Udaipur%29_08.jpg/1280px-City_Palace_%28Udaipur%29_08.jpg"
+      ]
+    }
+  }
+}
