@@ -25,7 +25,7 @@ body::before { /* warm readable overlay over the shared background */
 .container { max-width: 1100px; margin: 0 auto; padding: 20px 16px 40px; }
 .center { text-align: center; }
 .muted { color: #6b5844; font-size: .95em; }
-.lead { font-size: 1.12em; line-height: 1.6; }
+.lead { font-size: 1.12em; line-height: 1.6; color: #f7f0e1; text-shadow: 1px 1px 3px rgba(0,0,0,.6); }
 
 /* header: logo + city name + tabs, identical on all pages */
 .site-header {
